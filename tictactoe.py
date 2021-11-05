@@ -1,4 +1,4 @@
-# write your code here
+
 cells = '         '.upper()
 print('---------')
 print('| ' + cells[0] + ' ' + cells[1] + ' ' + cells[2] + ' |')
